@@ -5,5 +5,5 @@ problems from the [CSES Problem Set](https://cses.fi/problemset/).
 
 I will include code and more importantly, explanations and insights on how to approach the problems and how can the help you to solve similar problems.
 
-Obviously, I will only cover the problems that I have solved myself.
+Obviously, I will only cover the problems that I have solved myself. For the cases for problems that I got stucked and needed for hints I will provide references to external resources.
 
